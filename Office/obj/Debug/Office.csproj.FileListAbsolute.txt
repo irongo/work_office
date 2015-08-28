@@ -1,0 +1,8 @@
+F:\test\Office\Office\bin\Debug\Office.exe.config
+F:\test\Office\Office\bin\Debug\Office.exe
+F:\test\Office\Office\bin\Debug\Office.pdb
+F:\test\Office\Office\obj\Debug\Office.exe
+F:\test\Office\Office\obj\Debug\Office.pdb
+D:\Office\Office\bin\Debug\Office.exe.config
+D:\Office\Office\obj\Debug\Office.exe
+D:\Office\Office\obj\Debug\Office.pdb

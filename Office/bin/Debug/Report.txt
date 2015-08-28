@@ -1,0 +1,35 @@
+﻿Amount of Employees: 19
+Personnel:
+Directors: 9
+Managers: 8
+Bookers: 12
+Programmers: 11
+Testers: 11
+Designers: 10
+
+Assigned Tasks: 1732
+Completed: 1587
+Remoted to Freelance: 137
+
+Balance:
+Name                     | Salary    
+Layne Eastham            | 225760    
+Estefana Mccawley        | 268645    
+Willian Mattis           | 245810    
+Ivy Shy                  | 436200    
+Jules Polhemus           | 495520    
+Edmund Mccants           | 140915    
+Houston Montanye         | 160530    
+Nicky Skiba              | 67920     
+Kristin Boon             | 332170    
+Willian Mattis           | 208100    
+Krishna Sherrow          | 125450    
+Willene Stiltner         | 182510    
+Aiko Reisman             | 257150    
+Florencio Grana          | 25120     
+Saundra Tokarz           | 260665    
+Julius Duff              | 216000    
+Heidy Hudec              | 104250    
+Al Zuccaro               | 167630    
+Simone Appleton          | 20000     
+In total                 | 3940345   
